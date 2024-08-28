@@ -1,4 +1,4 @@
-def testing2(s:int):
+def testing2(s: int):
     return s * 13
 
 
@@ -9,5 +9,6 @@ def testing(s: str):
 if __name__ == "__main__":
     testing("hello World!")
     testing2(1)
+
 
 
